@@ -1,8 +1,8 @@
 # Zoom Note Taker
-An automated note taker for your zoom lectures.
+An automated note taker for your zoom lectures!
 ## Implementation
 This project was inspired for courses that do not upload lecture material, or content without text highlighting, and for open book assignments or exams.
-This project was implemented using Python and the following Python libraries to screenshot lectures and image preprocessing to extract text content from the screenshots.
+This project was implemented using Python and the libraries listed below to capture screenshots of zoom lectures and convert the screenshots to text.
 - cv2
 - tesseract
 # Getting Started
